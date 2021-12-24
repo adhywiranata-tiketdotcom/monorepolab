@@ -1,5 +1,5 @@
 {
-  "name": "frost-pkga",
+  "name": "@adhywiranata-tiketdotcom/frost-pkga",
   "version": "0.0.4",
   "description": "> TODO: description",
   "author": "Adhy Wiranata <adhy.prasetyo@tiket.com>",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/adhywiranata-tiketdotcom/monorepolab/issues"
   },
-  "gitHead": "c9992d31502b190cc370836402d4babeb30541e4"
+  "gitHead": "6f592818795f2d4ebf6557e5f152589138ae5a6e"
 }
