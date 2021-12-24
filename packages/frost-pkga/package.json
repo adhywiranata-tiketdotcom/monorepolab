@@ -1,0 +1,26 @@
+{
+  "name": "frost-pkga",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Adhy Wiranata <adhy.prasetyo@tiket.com>",
+  "homepage": "https://github.com/adhywiranata-tiketdotcom/monorepolab#readme",
+  "license": "ISC",
+  "main": "lib/frost-pkga.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhywiranata-tiketdotcom/monorepolab.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/adhywiranata-tiketdotcom/monorepolab/issues"
+  }
+}
